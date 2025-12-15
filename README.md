@@ -97,11 +97,12 @@ Special thanks to my teacher and classfollows for their guidance.
           Himanshu Singh
           Student of Computer Science | Passionate Web Developer
       # 👤Himanshu Singh: https://github.com/himanshusingh020
-      # 👤Hiamnshu Singh Email: dhanjisingh00002007@gmail.com
+      # 👤Himanshu Singh Email: dhanjisingh00002007@gmail.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✨ This project is a milestone in my learning journey. It may look simple, but it represents the foundation of my career in web development. 🚀
+
 
 
 
