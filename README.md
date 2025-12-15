@@ -47,7 +47,7 @@ image-gallery-project CSS/
 ├── full-gallery.html           # Page 3 → Gallery with 12 images
 └── README.md                   # Project Documentation
 <img width="249" height="502" alt="image" src="https://github.com/user-attachments/assets/50971cb1-2df0-4bcc-bc87-cc6c1a2d07e5" />
-<img width="540" height="960" alt="image" src="https://github.com/user-attachments/assets/0daecd79-cf55-4250-9690-5bf3da25364b" />
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -103,6 +103,7 @@ Special thanks to my teacher and classfollows for their guidance.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✨ This project is a milestone in my learning journey. It may look simple, but it represents the foundation of my career in web development. 🚀
+
 
 
 
